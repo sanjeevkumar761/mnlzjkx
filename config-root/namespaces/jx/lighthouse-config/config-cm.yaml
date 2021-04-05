@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - sanjeevkumar761/mnlzjkx
-      target_url: http://dashboard-jx.192.168.99.102.nip.io
+      target_url: http://dashboard-jx.192.168.49.2.nip.io
 kind: ConfigMap
 metadata:
   creationTimestamp: null

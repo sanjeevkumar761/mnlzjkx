@@ -16,4 +16,4 @@ spec:
               serviceName: bucketrepo
               servicePort: 80
             path: "/"
-      host: bucketrepo-jx.192.168.99.102.nip.io
+      host: bucketrepo-jx.192.168.49.2.nip.io
